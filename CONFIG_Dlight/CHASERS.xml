@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ChaseExport>
+  <step id="0">
+    <chazeSeqStep/>
+    <chazeSeqCue>1</chazeSeqCue>
+    <chazeSeqTimeIn>0.2</chazeSeqTimeIn>
+    <chazeSeqTimeOut>0.2</chazeSeqTimeOut>
+    <chazeSeqDelayIn>0</chazeSeqDelayIn>
+    <chazeSeqDelayOut>0</chazeSeqDelayOut>
+    <chazeSeqWait>0</chazeSeqWait>
+    <chazeSeqHold>0</chazeSeqHold>
+    <chazeSeqTLink/>
+    <chazeSeqDLink/>
+  </step>
+  <step id="1">
+    <chazeSeqStep/>
+    <chazeSeqCue>2</chazeSeqCue>
+    <chazeSeqTimeIn>0.2</chazeSeqTimeIn>
+    <chazeSeqTimeOut>0.2</chazeSeqTimeOut>
+    <chazeSeqDelayIn>0</chazeSeqDelayIn>
+    <chazeSeqDelayOut>0</chazeSeqDelayOut>
+    <chazeSeqWait>0</chazeSeqWait>
+    <chazeSeqHold>0</chazeSeqHold>
+    <chazeSeqTLink/>
+    <chazeSeqDLink/>
+  </step>
+  <group id="1">
+    <ROOM id="0">
+      <circ id="36">255</circ>
+    </ROOM>
+  </group>
+  <group id="2">
+    <ROOM id="0">
+      <circ id="33">255</circ>
+    </ROOM>
+  </group>
+  <group id="3">
+    <ROOM id="0">
+      <circ id="40">255</circ>
+    </ROOM>
+  </group>
+</ChaseExport>
+<!--This file is produced by D::Light © NicolasBats (www.getdlight.com)-->

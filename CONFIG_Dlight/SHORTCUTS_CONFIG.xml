@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shortcut>
+  <shNodeLevel>2</shNodeLevel>
+  <key id="registre">
+    <sh>p</sh>
+    <sh/>
+  </key>
+  <key id="record">
+    <sh>R</sh>
+    <sh/>
+  </key>
+  <key id="update">
+    <sh>M</sh>
+    <sh/>
+  </key>
+  <key id="cue">
+    <sh>q</sh>
+    <sh/>
+  </key>
+  <key id="cue_load">
+    <sh>x</sh>
+    <sh/>
+  </key>
+  <key id="cue_delete">
+    <sh>Q</sh>
+    <sh/>
+  </key>
+  <key id="cue_goto">
+    <sh>n</sh>
+    <sh/>
+  </key>
+  <key id="step">
+    <sh>k</sh>
+    <sh/>
+  </key>
+  <key id="step_new">
+    <sh>K</sh>
+    <sh/>
+  </key>
+  <key id="step_goto">
+    <sh>l</sh>
+    <sh/>
+  </key>
+  <key id="step_insert">
+    <sh>I</sh>
+    <sh/>
+  </key>
+  <key id="step_delete">
+    <sh>S</sh>
+    <sh/>
+  </key>
+  <key id="stepID_set">
+    <sh/>
+    <sh/>
+  </key>
+  <key id="stepID_goto">
+    <sh/>
+    <sh/>
+  </key>
+  <key id="channel">
+    <sh>c</sh>
+    <sh/>
+  </key>
+  <key id="time">
+    <sh>tt</sh>
+    <sh/>
+  </key>
+  <key id="time_in">
+    <sh>ti</sh>
+    <sh/>
+  </key>
+  <key id="time_out">
+    <sh>to</sh>
+    <sh/>
+  </key>
+  <key id="delay">
+    <sh>dd</sh>
+    <sh/>
+  </key>
+  <key id="delay_in">
+    <sh>di</sh>
+    <sh/>
+  </key>
+  <key id="delay_out">
+    <sh>do</sh>
+    <sh/>
+  </key>
+  <key id="wait">
+    <sh>w</sh>
+    <sh/>
+  </key>
+  <key id="hold">
+    <sh/>
+    <sh/>
+  </key>
+  <key id="go">
+    <sh>g</sh>
+    <sh/>
+  </key>
+  <key id="pause">
+    <sh>P</sh>
+    <sh/>
+  </key>
+  <key id="goback">
+    <sh>gb</sh>
+    <sh/>
+  </key>
+  <key id="At_level">
+    <sh>equal</sh>
+    <sh/>
+  </key>
+  <key id="+">
+    <sh>plus</sh>
+    <sh/>
+  </key>
+  <key id="-">
+    <sh>minus</sh>
+    <sh/>
+  </key>
+  <key id="thru">
+    <sh>greater</sh>
+    <sh/>
+  </key>
+  <key id="all">
+    <sh>a</sh>
+    <sh/>
+  </key>
+  <key id="full">
+    <sh>f</sh>
+    <sh/>
+  </key>
+  <key id="step+">
+    <sh>Down</sh>
+    <sh/>
+  </key>
+  <key id="step-">
+    <sh>Up</sh>
+    <sh/>
+  </key>
+  <key id="+%">
+    <sh>Right</sh>
+    <sh/>
+  </key>
+  <key id="-%">
+    <sh>Left</sh>
+    <sh/>
+  </key>
+  <key id="jump">
+    <sh>j</sh>
+    <sh/>
+  </key>
+  <key id="dimmer">
+    <sh>v</sh>
+    <sh/>
+  </key>
+  <key id="pages">
+    <sh>semicolon</sh>
+    <sh/>
+  </key>
+  <key id="sub_open">
+    <sh/>
+    <sh/>
+  </key>
+  <key id="sub_page+">
+    <sh>y</sh>
+    <sh/>
+  </key>
+  <key id="sub_page-">
+    <sh>Y</sh>
+    <sh/>
+  </key>
+  <key id="group_selection">
+    <sh>h</sh>
+    <sh/>
+  </key>
+  <key id="group_load">
+    <sh>O</sh>
+    <sh/>
+  </key>
+  <key id="group_record">
+    <sh>H</sh>
+    <sh/>
+  </key>
+  <key id="text">
+    <sh>o</sh>
+    <sh/>
+  </key>
+  <key id="chaze_load">
+    <sh>m</sh>
+    <sh/>
+  </key>
+  <key id="speed_load">
+    <sh>B</sh>
+    <sh/>
+  </key>
+  <key id="RecMLink">
+    <sh>L</sh>
+    <sh/>
+  </key>
+  <key id="updateMLink">
+    <sh/>
+    <sh/>
+  </key>
+  <key id="TLink">
+    <sh>z</sh>
+    <sh/>
+  </key>
+  <key id="Delete">
+    <sh>BackSpace</sh>
+    <sh/>
+  </key>
+  <key id="0">
+    <sh>0</sh>
+    <sh>agrave</sh>
+  </key>
+  <key id="1">
+    <sh>1</sh>
+    <sh>ampersand</sh>
+  </key>
+  <key id="2">
+    <sh>2</sh>
+    <sh>eacute</sh>
+  </key>
+  <key id="3">
+    <sh>3</sh>
+    <sh>quotedbl</sh>
+  </key>
+  <key id="4">
+    <sh>4</sh>
+    <sh>apostrophe</sh>
+  </key>
+  <key id="5">
+    <sh>5</sh>
+    <sh>parenleft</sh>
+  </key>
+  <key id="6">
+    <sh>6</sh>
+    <sh>section</sh>
+  </key>
+  <key id="7">
+    <sh>7</sh>
+    <sh>egrave</sh>
+  </key>
+  <key id="8">
+    <sh>8</sh>
+    <sh>exclam</sh>
+  </key>
+  <key id="9">
+    <sh>9</sh>
+    <sh>ccedilla</sh>
+  </key>
+  <key id="Dot(.)">
+    <sh>period</sh>
+    <sh/>
+  </key>
+  <key id="Clone">
+    <sh>b</sh>
+    <sh/>
+  </key>
+  <key id="Inv">
+    <sh>asterisk</sh>
+    <sh/>
+  </key>
+  <key id="Sub">
+    <sh>comma</sh>
+    <sh/>
+  </key>
+  <key id="MidiSwitch">
+    <sh>e</sh>
+    <sh/>
+  </key>
+  <key id="Swap">
+    <sh>u</sh>
+    <sh/>
+  </key>
+  <key id="Live">
+    <sh>r</sh>
+    <sh/>
+  </key>
+  <key id="KillSub">
+    <sh>Escape</sh>
+    <sh/>
+  </key>
+  <key id="SubBook">
+    <sh/>
+    <sh/>
+  </key>
+  <key id="Black">
+    <sh/>
+    <sh/>
+  </key>
+  <key id="Freeze">
+    <sh/>
+    <sh/>
+  </key>
+  <key id="Sample">
+    <sh/>
+    <sh/>
+  </key>
+  <key id="Loop">
+    <sh>loop</sh>
+    <sh/>
+  </key>
+  <key id="Enter">
+    <sh>Return</sh>
+    <sh/>
+  </key>
+  <key id="Palette">
+    <sh/>
+    <sh/>
+  </key>
+  <key id="Phase">
+    <sh/>
+    <sh/>
+  </key>
+  <key id="Refresh">
+    <sh/>
+    <sh/>
+  </key>
+  <key id="Balance">
+    <sh/>
+    <sh/>
+  </key>
+  <key id="microPalette">
+    <sh/>
+    <sh/>
+  </key>
+</shortcut>
+<!--This file is produced by D::Light © NicolasBats (www.getdlight.com)-->
