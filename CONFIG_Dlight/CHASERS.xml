@@ -3,11 +3,11 @@
   <step id="0">
     <chazeSeqStep/>
     <chazeSeqCue>1</chazeSeqCue>
-    <chazeSeqTimeIn>0.1</chazeSeqTimeIn>
-    <chazeSeqTimeOut>0.1</chazeSeqTimeOut>
+    <chazeSeqTimeIn>0.2</chazeSeqTimeIn>
+    <chazeSeqTimeOut>0.2</chazeSeqTimeOut>
     <chazeSeqDelayIn>0</chazeSeqDelayIn>
     <chazeSeqDelayOut>0</chazeSeqDelayOut>
-    <chazeSeqWait>.</chazeSeqWait>
+    <chazeSeqWait>0</chazeSeqWait>
     <chazeSeqHold>0</chazeSeqHold>
     <chazeSeqTLink/>
     <chazeSeqDLink/>
@@ -15,313 +15,28 @@
   <step id="1">
     <chazeSeqStep/>
     <chazeSeqCue>2</chazeSeqCue>
-    <chazeSeqTimeIn>0.1</chazeSeqTimeIn>
-    <chazeSeqTimeOut>0.1</chazeSeqTimeOut>
+    <chazeSeqTimeIn>0.2</chazeSeqTimeIn>
+    <chazeSeqTimeOut>0.2</chazeSeqTimeOut>
     <chazeSeqDelayIn>0</chazeSeqDelayIn>
     <chazeSeqDelayOut>0</chazeSeqDelayOut>
-    <chazeSeqWait>.</chazeSeqWait>
-    <chazeSeqHold>0</chazeSeqHold>
-    <chazeSeqTLink/>
-    <chazeSeqDLink/>
-  </step>
-  <step id="2">
-    <chazeSeqStep/>
-    <chazeSeqCue>3</chazeSeqCue>
-    <chazeSeqTimeIn>0.1</chazeSeqTimeIn>
-    <chazeSeqTimeOut>0.1</chazeSeqTimeOut>
-    <chazeSeqDelayIn>0</chazeSeqDelayIn>
-    <chazeSeqDelayOut>0</chazeSeqDelayOut>
-    <chazeSeqWait>.</chazeSeqWait>
-    <chazeSeqHold>0</chazeSeqHold>
-    <chazeSeqTLink/>
-    <chazeSeqDLink/>
-  </step>
-  <step id="3">
-    <chazeSeqStep/>
-    <chazeSeqCue>4</chazeSeqCue>
-    <chazeSeqTimeIn>0.1</chazeSeqTimeIn>
-    <chazeSeqTimeOut>0.1</chazeSeqTimeOut>
-    <chazeSeqDelayIn>0</chazeSeqDelayIn>
-    <chazeSeqDelayOut>0</chazeSeqDelayOut>
-    <chazeSeqWait>.</chazeSeqWait>
-    <chazeSeqHold>0</chazeSeqHold>
-    <chazeSeqTLink/>
-    <chazeSeqDLink/>
-  </step>
-  <step id="4">
-    <chazeSeqStep/>
-    <chazeSeqCue>5</chazeSeqCue>
-    <chazeSeqTimeIn>0.1</chazeSeqTimeIn>
-    <chazeSeqTimeOut>0.1</chazeSeqTimeOut>
-    <chazeSeqDelayIn>0</chazeSeqDelayIn>
-    <chazeSeqDelayOut>0</chazeSeqDelayOut>
-    <chazeSeqWait>.</chazeSeqWait>
-    <chazeSeqHold>0</chazeSeqHold>
-    <chazeSeqTLink/>
-    <chazeSeqDLink/>
-  </step>
-  <step id="5">
-    <chazeSeqStep/>
-    <chazeSeqCue>10</chazeSeqCue>
-    <chazeSeqTimeIn>0.1</chazeSeqTimeIn>
-    <chazeSeqTimeOut>0.1</chazeSeqTimeOut>
-    <chazeSeqDelayIn>0</chazeSeqDelayIn>
-    <chazeSeqDelayOut>0</chazeSeqDelayOut>
-    <chazeSeqWait>.</chazeSeqWait>
-    <chazeSeqHold>0</chazeSeqHold>
-    <chazeSeqTLink/>
-    <chazeSeqDLink/>
-  </step>
-  <step id="6">
-    <chazeSeqStep/>
-    <chazeSeqCue>13</chazeSeqCue>
-    <chazeSeqTimeIn>0.1</chazeSeqTimeIn>
-    <chazeSeqTimeOut>0.1</chazeSeqTimeOut>
-    <chazeSeqDelayIn>0</chazeSeqDelayIn>
-    <chazeSeqDelayOut>0</chazeSeqDelayOut>
-    <chazeSeqWait>.</chazeSeqWait>
+    <chazeSeqWait>0</chazeSeqWait>
     <chazeSeqHold>0</chazeSeqHold>
     <chazeSeqTLink/>
     <chazeSeqDLink/>
   </step>
   <group id="1">
     <ROOM id="0">
-      <circ id="1">255</circ>
-      <circ id="2">77</circ>
-      <circ id="8">255</circ>
-      <circ id="13">255</circ>
-      <circ id="14">77</circ>
+      <circ id="36">255</circ>
     </ROOM>
   </group>
   <group id="2">
     <ROOM id="0">
-      <circ id="1">77</circ>
-      <circ id="2">255</circ>
-      <circ id="3">77</circ>
-      <circ id="8">76</circ>
-      <circ id="9">255</circ>
-      <circ id="10">76</circ>
-      <circ id="13">77</circ>
-      <circ id="14">255</circ>
-      <circ id="15">77</circ>
+      <circ id="33">255</circ>
     </ROOM>
   </group>
   <group id="3">
     <ROOM id="0">
-      <circ id="2">77</circ>
-      <circ id="3">255</circ>
-      <circ id="4">77</circ>
-      <circ id="9">76</circ>
-      <circ id="10">76</circ>
-      <circ id="14">77</circ>
-      <circ id="15">255</circ>
-      <circ id="16">77</circ>
-    </ROOM>
-  </group>
-  <group id="4">
-    <ROOM id="0">
-      <circ id="3">77</circ>
-      <circ id="4">255</circ>
-      <circ id="5">77</circ>
-      <circ id="10">255</circ>
-      <circ id="15">77</circ>
-      <circ id="16">255</circ>
-      <circ id="17">77</circ>
-    </ROOM>
-  </group>
-  <group id="5">
-    <ROOM id="0">
-      <circ id="4">77</circ>
-      <circ id="5">255</circ>
-      <circ id="6">77</circ>
-      <circ id="10">77</circ>
-      <circ id="11">77</circ>
-      <circ id="16">77</circ>
-      <circ id="17">255</circ>
-      <circ id="18">77</circ>
-    </ROOM>
-  </group>
-  <group id="6">
-    <ROOM id="0">
-      <circ id="5">77</circ>
-      <circ id="6">255</circ>
-      <circ id="7">77</circ>
-      <circ id="11">255</circ>
-      <circ id="12">77</circ>
-      <circ id="17">77</circ>
-      <circ id="18">255</circ>
-      <circ id="19">77</circ>
-    </ROOM>
-  </group>
-  <group id="7">
-    <ROOM id="0">
-      <circ id="7">255</circ>
-      <circ id="12">255</circ>
-      <circ id="19">255</circ>
-    </ROOM>
-  </group>
-  <group id="8">
-    <ROOM id="0">
-      <circ id="6">255</circ>
-      <circ id="11">255</circ>
-      <circ id="18">255</circ>
-    </ROOM>
-  </group>
-  <group id="9">
-    <ROOM id="0">
-      <circ id="5">255</circ>
-      <circ id="17">255</circ>
-      <circ id="18">1</circ>
-    </ROOM>
-  </group>
-  <group id="10">
-    <ROOM id="0">
-      <circ id="5">74</circ>
-      <circ id="6">255</circ>
-      <circ id="7">75</circ>
-      <circ id="10">74</circ>
-      <circ id="11">255</circ>
-      <circ id="12">75</circ>
-      <circ id="17">73</circ>
-      <circ id="18">255</circ>
-      <circ id="19">73</circ>
-    </ROOM>
-  </group>
-  <group id="11">
-    <ROOM id="0">
-      <circ id="6">255</circ>
-      <circ id="11">255</circ>
-      <circ id="18">255</circ>
-    </ROOM>
-  </group>
-  <group id="12">
-    <ROOM id="0">
-      <circ id="1">255</circ>
-      <circ id="2">77</circ>
-      <circ id="8">255</circ>
-      <circ id="13">255</circ>
-      <circ id="14">77</circ>
-    </ROOM>
-  </group>
-  <group id="13">
-    <ROOM id="0">
-      <circ id="7">255</circ>
-      <circ id="11">75</circ>
-      <circ id="12">255</circ>
-      <circ id="18">75</circ>
-      <circ id="19">255</circ>
-    </ROOM>
-  </group>
-  <group id="14">
-    <ROOM id="0">
-      <circ id="4">77</circ>
-      <circ id="5">255</circ>
-      <circ id="6">77</circ>
-      <circ id="10">77</circ>
-      <circ id="11">77</circ>
-      <circ id="16">77</circ>
-      <circ id="17">255</circ>
-      <circ id="18">77</circ>
-    </ROOM>
-  </group>
-  <group id="15">
-    <ROOM id="0">
-      <circ id="3">77</circ>
-      <circ id="4">255</circ>
-      <circ id="5">77</circ>
-      <circ id="10">255</circ>
-      <circ id="15">77</circ>
-      <circ id="16">255</circ>
-      <circ id="17">77</circ>
-    </ROOM>
-  </group>
-  <group id="16">
-    <ROOM id="0">
-      <circ id="2">77</circ>
-      <circ id="3">255</circ>
-      <circ id="4">77</circ>
-      <circ id="9">76</circ>
-      <circ id="10">76</circ>
-      <circ id="14">77</circ>
-      <circ id="15">255</circ>
-      <circ id="16">77</circ>
-    </ROOM>
-  </group>
-  <group id="17">
-    <ROOM id="0">
-      <circ id="1">77</circ>
-      <circ id="2">255</circ>
-      <circ id="3">77</circ>
-      <circ id="8">76</circ>
-      <circ id="9">255</circ>
-      <circ id="10">76</circ>
-      <circ id="13">77</circ>
-      <circ id="14">255</circ>
-      <circ id="15">77</circ>
-    </ROOM>
-  </group>
-  <group id="18">
-    <ROOM id="0">
-      <circ id="6">255</circ>
-      <circ id="11">255</circ>
-      <circ id="18">255</circ>
-    </ROOM>
-  </group>
-  <group id="19">
-    <ROOM id="0">
-      <circ id="4">77</circ>
-      <circ id="5">255</circ>
-      <circ id="6">77</circ>
-      <circ id="10">77</circ>
-      <circ id="11">77</circ>
-      <circ id="16">77</circ>
-      <circ id="17">255</circ>
-      <circ id="18">77</circ>
-    </ROOM>
-  </group>
-  <group id="20">
-    <ROOM id="0">
-      <circ id="3">77</circ>
-      <circ id="4">255</circ>
-      <circ id="5">77</circ>
-      <circ id="10">255</circ>
-      <circ id="15">77</circ>
-      <circ id="16">255</circ>
-      <circ id="17">77</circ>
-    </ROOM>
-  </group>
-  <group id="21">
-    <ROOM id="0">
-      <circ id="2">77</circ>
-      <circ id="3">255</circ>
-      <circ id="4">77</circ>
-      <circ id="9">76</circ>
-      <circ id="10">76</circ>
-      <circ id="14">77</circ>
-      <circ id="15">255</circ>
-      <circ id="16">77</circ>
-    </ROOM>
-  </group>
-  <group id="22">
-    <ROOM id="0">
-      <circ id="1">77</circ>
-      <circ id="2">255</circ>
-      <circ id="3">77</circ>
-      <circ id="8">76</circ>
-      <circ id="9">255</circ>
-      <circ id="10">76</circ>
-      <circ id="13">77</circ>
-      <circ id="14">255</circ>
-      <circ id="15">77</circ>
-    </ROOM>
-  </group>
-  <group id="23">
-    <ROOM id="0">
-      <circ id="1">255</circ>
-      <circ id="2">77</circ>
-      <circ id="8">255</circ>
-      <circ id="13">255</circ>
-      <circ id="14">77</circ>
+      <circ id="40">255</circ>
     </ROOM>
   </group>
 </ChaseExport>

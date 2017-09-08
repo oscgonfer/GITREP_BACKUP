@@ -28,6 +28,11 @@
     <CC channel="1" num="5" id="Sub">16</CC>
     <CC channel="1" num="6" id="XFade_X1">-1</CC>
     <CC channel="1" num="7" id="XFade_X2">-1</CC>
+    <CC channel="1" num="16" id="Sub">31</CC>
+    <CC channel="1" num="17" id="Sub">32</CC>
+    <CC channel="1" num="18" id="Sub">33</CC>
+    <CC channel="1" num="19" id="Sub">34</CC>
+    <CC channel="1" num="20" id="Sub">35</CC>
     <CC channel="1" num="22" id="AllSub Master">-1</CC>
     <CC channel="1" num="23" id="GrandMaster">-1</CC>
     <NOTE channel="1" num="41" id="Go">-1</NOTE>
